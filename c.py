@@ -1,1 +1,1 @@
-print("this is for new repositry")
+print("conflic aaye ga")
